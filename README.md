@@ -1,3 +1,5 @@
+> Dette er en test for oppsett av Claude Code for et prosjekt. GDP brukes som eksempel.
+
 # GDP – Bruttonasjonalprodukt
 
 Prosjekt for innhenting, bearbeiding og analyse av BNP-data.
