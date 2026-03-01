@@ -39,4 +39,18 @@ Dette er den primære instruksjonsfilen for prosjektet. Den skal leses ved oppst
 
 ---
 
-*Sist oppdatert: 2026-03-01 (lagt til regel om kontinuerlig git-lagring)*
+### Fremdriftslogg – `./log/progress.md`
+
+- Filen `./log/progress.md` er den løpende loggen over alt arbeid i prosjektet.
+- Claude skal oppdatere denne filen **etter hver økt eller meningsfull endring**, med et nytt innlegg øverst.
+- Innlegget skal inneholde:
+  - Dato og klokkeslett (`YYYY-MM-DD HH:MM`)
+  - Kort tittel på hva som ble gjort
+  - Kulepunktliste over konkrete handlinger
+  - Hvilke filer som ble påvirket
+  - Eventuelle neste steg eller notater
+- Formål: sikre at kontekst ikke går tapt ved avbrudd i chatten.
+
+---
+
+*Sist oppdatert: 2026-03-01 (lagt til regel om fremdriftslogg)*
