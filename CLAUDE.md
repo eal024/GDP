@@ -31,8 +31,12 @@ Dette er den primære instruksjonsfilen for prosjektet. Den skal leses ved oppst
 
 ## Nye regler
 
-*(Nye regler legges til her underveis i prosjektet.)*
+### Kontinuerlig git-lagring
+
+- Etter hver meningsfull endring (nytt datasett, nytt skript, oppdatert fil) skal Claude automatisk kjøre `git add`, `git commit` og `git push`.
+- Commit-meldinger skal være korte og beskrivende, på norsk.
+- Formålet er at arbeid aldri går tapt – repoet på GitHub skal til enhver tid speile gjeldende tilstand.
 
 ---
 
-*Sist oppdatert: 2026-03-01*
+*Sist oppdatert: 2026-03-01 (lagt til regel om kontinuerlig git-lagring)*
